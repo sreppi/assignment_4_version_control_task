@@ -25,4 +25,5 @@ class Particle {
     fill(colorR,colorG,colorB);
     ellipse(position.x, position.y, 10, 10);
   }
+  
 }
